@@ -1,0 +1,50 @@
+body {
+	
+	/* Copied from Moodle but looks worse than default! 
+	font-family: "Verdana",sans-serif;
+    font-size: 10pt;
+	*/
+}
+
+a {
+	
+    color: #002B5C;
+    text-decoration: none;
+	
+}
+
+a:hover {
+	
+	text-decoration: underline;
+	
+}
+
+#top-wrapper {
+	
+	min-height: 109px;
+	margin-top: 3px;
+	background-image: url('../images/moodle_generic.png');
+	background-position: right top;
+    background-repeat: no-repeat;
+	
+}
+
+#header-right {
+	
+	color: #002B5C;
+	background-color: white;
+	
+}
+
+/* #sub-nav {
+ 
+    color: white;
+    background-color: rgba(0, 43, 92, 0.4);
+    
+}
+
+#sub-nav a {
+
+    color: white;
+	
+} */
