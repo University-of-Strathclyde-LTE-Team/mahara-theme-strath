@@ -29,22 +29,10 @@ a:hover {
 	
 }
 
-#header-right {
+#right-nav ul {
 	
 	color: #002B5C;
 	background-color: white;
+	border: 1px #002B5C solid;
 	
 }
-
-/* #sub-nav {
- 
-    color: white;
-    background-color: rgba(0, 43, 92, 0.4);
-    
-}
-
-#sub-nav a {
-
-    color: white;
-	
-} */
